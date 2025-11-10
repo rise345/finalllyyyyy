@@ -1,0 +1,12 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Emotion Classifier</title>
+</head>
+<body>
+  <h1>App is running!</h1>
+  <p>If you see this page, your Flask app works 🎉</p>
+</body>
+</html>
